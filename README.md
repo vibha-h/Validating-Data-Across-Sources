@@ -1,2 +1,2 @@
 # Validating-Data-Across-Sources
-Generalized version of the project I ideated and created during my 2024 internship at UPMC.
+Generalized version of the data validation pipeline I ideated and created in Snowflake during my 2024 internship at UPMC.
